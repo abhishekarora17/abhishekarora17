@@ -12,8 +12,7 @@ I'm a passionate **Software Developer** with expertise in backend development an
 
 🌱 **I’m Currently Learning:**  
 - Advanced architectural patterns for scalable applications  
-- Performance optimization in full-stack development  
-- Cloud services and deployment strategies  
+- Performance optimization in full-stack development 
 
 💞️ **I’m Looking to Collaborate On:**  
 - Innovative projects focusing on **Nest.js**   
@@ -21,6 +20,10 @@ I'm a passionate **Software Developer** with expertise in backend development an
 
 ### 📫 Let's Connect!  
 🔗 www.linkedin.com/in/abhishek-arora-818942221 |  📧 aroraabhishek732@gmail.com  
+
+
+### 😄 Pronouns
+- He/Him
 
 ---
 
