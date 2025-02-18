@@ -20,7 +20,7 @@ I'm a passionate **Software Developer** with expertise in backend development an
 - Startups or companies looking to enhance their web applications  
 
 ### 📫 Let's Connect!  
-🔗 [LinkedIn](www.linkedin.com/in/abhishek-arora-818942221) |  📧 aroraabhishek732@gmail.com  
+🔗 www.linkedin.com/in/abhishek-arora-818942221 |  📧 aroraabhishek732@gmail.com  
 
 ---
 
