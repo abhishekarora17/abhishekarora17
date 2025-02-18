@@ -15,7 +15,7 @@ I'm a passionate **Software Developer** with expertise in backend development an
 - Performance optimization in full-stack development 
 
 💞️ **I’m Looking to Collaborate On:**  
-- Innovative projects focusing on **Nest.js**   
+- Innovative projects focusing on **Laravel** & **Nest.js**   
 - Startups or companies looking to enhance their web applications  
 
 ### 📫 Let's Connect!  
