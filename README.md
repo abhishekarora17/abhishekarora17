@@ -1,30 +1,30 @@
 # 💻 Software Developer | Backend & Full-Stack Enthusiast  
 
-### 👋 Hi there! I'm Abhishek Arora 
+### 👋 Hi, I'm Abhishek Arora!  
 
-I'm a passionate **Software Developer** with expertise in backend development and a growing interest in full-stack JavaScript technologies. I enjoy architecting scalable applications, optimizing performance, and working with modern web frameworks.  
+I'm a passionate **Software Developer** specializing in backend development, with a growing focus on full-stack JavaScript technologies. I love **architecting scalable applications**, optimizing performance, and leveraging modern frameworks to build efficient solutions.  
 
-🚀 **Tech Stack:**  
+## 🚀 Tech Stack  
 - **Backend:** Laravel, CodeIgniter, NestJS  
-- **Frontend:** JavaScript
-- **Database:** MySQL, Postgres  
+- **Frontend:** JavaScript  
+- **Database:** MySQL, PostgreSQL  
 - **Other Tools:** Git, REST APIs  
 
-🌱 **I’m Currently Learning:**  
-- Advanced architectural patterns for scalable applications  
-- Performance optimization in full-stack development 
+## 🌱 Currently Exploring  
+- Advanced architectural patterns for **scalable** applications  
+- Performance optimization in **full-stack** development  
 
-💞️ **I’m Looking to Collaborate On:**  
-- Innovative projects focusing on **Laravel** & **Nest.js**   
-- Startups or companies looking to enhance their web applications  
+## 💡 Open to Collaborations  
+I'm excited to connect with:  
+✔️ **Innovative projects** leveraging Laravel & NestJS  
+✔️ **Startups & companies** looking to enhance their web applications  
+✔️ **Open-source initiatives** where I can contribute my backend & full-stack expertise  
 
-### 📫 Let's Connect!  
-🔗 www.linkedin.com/in/abhishek-arora-818942221 |  📧 aroraabhishek732@gmail.com  
+## 📫 Let’s Connect!  
+🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-arora-818942221) | 📧 [Email Me](mailto:aroraabhishek732@gmail.com)  
 
+😄 **Pronouns:** He/Him  
 
-### 😄 Pronouns
-- He/Him
+---  
 
----
-
-💡 *"Code is like humor. When you have to explain it, it’s bad."*          
+💡 *"Code is like humor. When you have to explain it, it’s bad."*  
