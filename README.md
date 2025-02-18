@@ -1,16 +1,27 @@
-## Hi there 👋
+# 💻 Software Developer | Backend & Full-Stack Enthusiast  
 
-<!--
-**abhishekarora17/abhishekarora17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hi there! I'm Abhishek Arora 
 
-Here are some ideas to get you started:
+I'm a passionate **Software Developer** with expertise in backend development and a growing interest in full-stack JavaScript technologies. I enjoy architecting scalable applications, optimizing performance, and working with modern web frameworks.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Tech Stack:**  
+- **Backend:** Laravel, CodeIgniter, NestJS  
+- **Frontend:** JavaScript
+- **Database:** MySQL, Postgres  
+- **Other Tools:** Git, REST APIs  
+
+🌱 **I’m Currently Learning:**  
+- Advanced architectural patterns for scalable applications  
+- Performance optimization in full-stack development  
+- Cloud services and deployment strategies  
+
+💞️ **I’m Looking to Collaborate On:**  
+- Innovative projects focusing on **Nest.js**   
+- Startups or companies looking to enhance their web applications  
+
+### 📫 Let's Connect!  
+🔗 [LinkedIn](www.linkedin.com/in/abhishek-arora-818942221) |  📧 aroraabhishek732@gmail.com  
+
+---
+
+💡 *"Code is like humor. When you have to explain it, it’s bad."*          
