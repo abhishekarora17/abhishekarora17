@@ -8,7 +8,7 @@ I'm a passionate **Software Developer** specializing in backend development, wit
 - **Backend:** Laravel, CodeIgniter, NestJS  
 - **Frontend:** JavaScript  
 - **Database:** MySQL, PostgreSQL  
-- **Other Tools:** Git, REST APIs
+- **Other Tools:** Git, REST APIs, GraphQl
 
 ## 😍 Interests  
 - Crafting dynamic and high-performance web applications  
