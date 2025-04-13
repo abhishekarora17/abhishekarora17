@@ -1,11 +1,11 @@
-# 💻 Software Developer | Backend & Full-Stack Enthusiast  
+# 💻 Software Developer | Backend Enthusiast  
 
 ### 👋 Hi, I'm Abhishek Arora!  
 
 I'm a passionate **Software Developer** specializing in backend development, with a growing focus on full-stack JavaScript technologies. I love **architecting scalable applications**, optimizing performance, and leveraging modern frameworks to build efficient solutions.  
 
 ## 🚀 Tech Stack  
-- **Backend:** Laravel, CodeIgniter, NestJS  
+- **Backend:** Laravel, CodeIgniter, NestJS  , Node js 
 - **Frontend:** JavaScript  
 - **Database:** MySQL, PostgreSQL  
 - **Other Tools:** Git, REST APIs, GraphQl
